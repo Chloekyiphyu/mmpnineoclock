@@ -1,0 +1,27 @@
+body {background-color: #FF33E8;}
+h1{background-color: gold; color: #3433FF;
+font-family: Helvetica;
+font-size : 40px;
+text-align: center;}
+
+p{color: #3433FF;
+font-family: Helvetica;
+font-size: 18px;}
+
+a{color: blue;
+font-family: Helvetica;
+font-size: 18px;
+text-decoration: none;}
+
+a:hover {color: red;}
+
+li{background-color: white; border-color: green;
+border-style: double;
+text-align: center;
+margin: 4px;
+padding: 4px;
+display: inline;}
+
+ul{list-style-type: none; text-align: margin;}
+img{margin: auto;
+display: block;}
